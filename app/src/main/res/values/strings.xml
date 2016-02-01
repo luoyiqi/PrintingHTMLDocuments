@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PrintingHTMLDocuments</string>
+
+    <string name="print_make">MAKE HTML AND PRINT</string>
+    <string name="print_graphic">MAKE TEXT AND GRAPHIC AND PRINT</string>
+    <string name="print_webpage">PRINT CERTAIN WEBPAGE</string>
 </resources>
